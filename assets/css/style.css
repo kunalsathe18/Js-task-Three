@@ -1,0 +1,14 @@
+.heading{
+    background-image: linear-gradient(rgb(246, 153, 5),rgb(251, 251, 247));
+    padding-top: 50px;
+    padding-bottom: 80px;
+    text-align: center;
+    font-size: 30px;
+}
+.heading-two{
+    background-image: linear-gradient(rgb(252, 248, 243),rgb(14, 235, 21));
+    padding-top: 50px;
+    padding-bottom: 80px;
+    text-align: center;
+    font-size: 30px;
+}
